@@ -1,0 +1,33 @@
+*{
+ background-color: #222;
+ color: #fff;
+ margin: 0%;
+ padding: 0%;
+ box-sizing: border-box;
+}.banner{
+  background-image: url(https://occ-0-4857-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABe3jnfCzmGqFiYSy9tLOOAKE4wa4nFgRi7JvbzihoD262M-APwL-jTjpMoET29cjBomlBUOd3NEGMDRk4fV2IxvO3ox24QputUP8.jpg?r=f9c);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 100%;
+  height: 600px;
+  
+}
+.popster{
+    display: flex;
+    overflow-x: scroll;
+    margin:2% 1%;
+}
+.popster:-webkit-scrollbar{
+ display: none;
+}
+.popsters{
+    margin: 0% 0.4%;
+    border-radius: 2%;
+
+}
+h1{
+  margin: 12px;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+}
